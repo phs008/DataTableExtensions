@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using NLog;
 
-namespace FirePD.Firemon.V_8_17
+namespace DTExtension
 {
     /// <summary>
     /// [Author : 박흥식]
